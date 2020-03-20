@@ -64,7 +64,7 @@
   if($user == null){
   $msg = "Nobody Logged in." ;
   $image = "/images/system/login-sketch-svgrepo-com.svg";
-  ?> @include('stuff::navs.nav-user') <?php
+  ?> @include('pets::navs.nav-user') <?php
   }
   ?>
 
